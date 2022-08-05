@@ -1,1 +1,1 @@
-# Internship-Linear-regression
+# multiregression-house_price
